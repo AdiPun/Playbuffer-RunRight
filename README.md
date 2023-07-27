@@ -1,6 +1,6 @@
 # Playbuffer-RunRight
 
-![alt text](https://github.dev/AdiPun/Playbuffer-RunRight/blob/[branch]/RunRight_Screenshot.png?raw=true)
+![Screenshot1](https://github.com/AdiPun/Playbuffer-RunRight/blob/main/playbuffer-RunRight/RunRight_Screenshot.png?raw=true)
 
 ## Hello!
 
