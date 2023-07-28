@@ -32,9 +32,10 @@ animation when they land after jumping.
 - All the assets I used were from various talented creators on itch.io.
 
 ### RunRight
-It's a hot summer Tuesday, the Sun's just about to dip below the horizon and you're chasing a spaceship through a barren highway in the rocky mountains. All kinds of junk are being thrown your way in an effort to lose you. 
-The worst part? It stole your {thing. you like not being stolen}. 
-Jump, Slash, and Somersault your way through the debris and take back what is rightfully yours. The {thing that you prefer to be on your person a majority of the time}
+The sun's dipping below the horizon and you're chasing after a spaceship on a barren mountain motorway. It's throwing all kinds of junk overboard in an effort to lose you. There's no way it's getting away from you, after all, it stole your {thing that you like}.
+Jump, Slash, and Somersault your way through the debris and take back what is rightfully yours:
+
+{you know, that thing you like what you prefer not being stolen from you by a spaceship}
 
 ### Controls
 
