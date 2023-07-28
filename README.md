@@ -4,7 +4,7 @@
 
 ## Hello!
 
-Welcome to RunRight, a side-scrolling jump and beat-em-up game I developed using SumoDigital's Playbuffer 2D game development framework.
+Welcome to RunRight, a side-scrolling jump and beat-em-up game I developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), single-header C++ library for making simple 2D games.
 
 ### The game and using Playbuffer
 
