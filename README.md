@@ -35,7 +35,7 @@ animation when they land after jumping.
 The sun's dipping below the horizon and you're chasing after a spaceship on a barren mountain motorway. It's throwing all kinds of junk overboard in an effort to lose you. There's no way it's getting away from you, after all, it stole your {thing that you like}.
 Jump, Slash, and Somersault your way through the debris and take back what is rightfully yours:
 
-{you know, that thing you like what you prefer not being stolen from you by a spaceship}
+{err you know, that thing you like what you prefer not being stolen from you by a spaceship}
 
 ### Controls
 
