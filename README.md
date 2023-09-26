@@ -4,7 +4,7 @@
 
 ## Hello!
 
-Welcome to RunRight, a side-scrolling jump and beat-em-up game I developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), single-header C++ library for making simple 2D games.
+Welcome to RunRight, an endless scroller game I developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), single-header C++ library for making simple 2D games.
 
 ### The game and using Playbuffer
 
@@ -20,7 +20,7 @@ This game was incredibly fun to make. Using Sumodigital's header and tutorial ta
 
 ### Gameplay
 
-RunRight is a side-scrolling game where your character never moves on the x-axis. Instead, your arrow keys make different layers of the background move at varying velocities, which creates a feeling of speed and a parallax effect that I'm very proud of.
+RunRight is an endless scroller game where your character never moves on the x-axis. Instead, your arrow keys make different layers of the background move at varying velocities, which creates a feeling of speed and a parallax effect that I'm very proud of.
 
 ### Features
 
